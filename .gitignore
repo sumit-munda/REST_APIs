@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+logs/
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files (macOS)
+.DS_Store
+
+# IDE files (VS Code example)
+.vscode/
+
+# Optional: test coverage
+coverage/
+
+# Optional: build outputs
+dist/
+build/
+
+# Optional: temporary files
+*.tmp
+*.swp
+
+# Optional: lock files (if you're using yarn)
+yarn.lock
